@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixgnoy&label=Profile%20views&color=0e75b6&style=flat" alt="ixgnoy" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Application using Flutter and supabase/firebase**
+- 🔭 I’m currently working on **E-commerce Application using Flutter and supabase/firebase (Doing)**
 
 - 🌱 I’m currently learning **React & MongoDB**
 
