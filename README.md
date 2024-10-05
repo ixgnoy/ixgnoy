@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wongyongxi@gmail.com**
 
-- ⚡ Fun fact: **I love to explore nw thing**
+- ⚡ Fun fact: **I love to explore new thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
