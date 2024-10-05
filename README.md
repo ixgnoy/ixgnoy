@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-commerce Application using Flutter and supabase/firebase (Doing)**
 
-- 🌱 I’m currently learning **React & MongoDB**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ixgnoy](https://github.com/ixgnoy)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wongyongxi@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love to explore nw thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
