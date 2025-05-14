@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixgnoy&label=Profile%20views&color=0e75b6&style=flat" alt="ixgnoy" /> </p>
 
-- 🔭 I’m currently working on **Certified CyberDenfender (CCD) Certification**.
+- 🔭 I’m currently working on **Certified Ethical Hacker Course (by EC-Council)**.
 
-- 🌱 I’m currently learning **Cybersecurity (Blue Team)**
+- 🌱 I’m currently learning **Cybersecurity (Red Team)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ixgnoy](https://github.com/ixgnoy)
 
