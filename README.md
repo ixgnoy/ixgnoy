@@ -32,12 +32,12 @@
   <tr>
     <td>
       <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true&title_color=0c55a2&icon_color=0c55a2&hide_border=true&bg_color=141414&border_radius=10" alt="Wong Yong Xi's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true&title_color=0c55a2&icon_color=0c55a2&hide_border=true&text_color=ffffff&bg_color=141414&border_radius=10" alt="Wong Yong Xi's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact&hide_border=true&title_color=0c55a2&text_color=000000&bg_color=141414&border_radius=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact&hide_border=true&title_color=0c55a2&text_color=ffffff&bg_color=141414&border_radius=10" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
