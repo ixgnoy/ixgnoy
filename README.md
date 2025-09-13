@@ -35,8 +35,3 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact" alt="Most Used Languages" />
   </a>
 </div>
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ixgnoy&show_icons=true&locale=en&layout=compact" alt="ixgnoy" /></p>
-
-
