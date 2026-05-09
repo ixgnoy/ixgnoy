@@ -1,11 +1,11 @@
-### <h1 align="center">Hi 👋, I'm Wong Yong Xi</h1>
+<h1 align="center">Hi 👋, I'm Wong Yong Xi</h1>
 <h3 align="center">A passionate student developer from UPM, Malaysia, scope: Cybersecurity & Web/App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixgnoy&label=Profile%20views&color=0e75b6&style=flat" alt="ixgnoy" /> </p>
 
-- 🔭 I’m currently working on **Certified Ethical Hacker Course (by EC-Council)**.
+- 🔭 I'm currently working on **Certified Ethical Hacker Course (by EC-Council)**.
 
-- 🌱 I’m currently learning **Cybersecurity (Red Team)**
+- 🌱 I'm currently learning **Cybersecurity (Red Team)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ixgnoy](https://github.com/ixgnoy)
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wong-yong-xi-191b24244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wong-yong-xi-191b24244/" height="30" width="40" /></a>
-<a href="https://instagram.com/yongxi_1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yongxi_1205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ixgnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ixgnoy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ixgnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ixgnoy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ixgnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ixgnoy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wong-yong-xi-191b24244/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wong-yong-xi-191b24244/" height="30" width="40" /></a>
+<a href="https://instagram.com/yongxi_1205" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yongxi_1205" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ixgnoy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ixgnoy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ixgnoy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ixgnoy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ixgnoy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ixgnoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
