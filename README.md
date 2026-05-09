@@ -110,27 +110,10 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ixgnoy)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ixgnoy)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wongyongxi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wong-yong-xi-191b24244/)
 
 ---
 
-## 📊 GitHub Stats
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 😎 Before You Go...
 
