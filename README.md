@@ -119,12 +119,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true&title_color=0c55a2&icon_color=0c55a2&hide_border=true&text_color=ffffff&bg_color=141414&border_radius=10" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ixgnoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ixgnoy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact&hide_border=true&title_color=0c55a2&text_color=ffffff&bg_color=141414&border_radius=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixgnoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
