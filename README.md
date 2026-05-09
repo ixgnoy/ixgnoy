@@ -4,13 +4,13 @@
 - 🎓 Computer Science @ Universiti Putra Malaysia — graduating **Aug 2026**
 - 💼 Currently Fullstack Java Engineer Intern @ **iFast Global AI Hub**
 - 💼 Currently Fullstack AI Engineer (Part-time) @ **FutureMinds STEM Robotics**
-- 💼 Prev. Backend SWE Intern @ **Grab** (GrabAds — Go, gRPC, Kubernetes)
+- 💼 Prev. Backend SWE Intern @ **Grab** (GrabAds)
 - 🌐 Web/App Dev Team Lead @ **GDSC UPM** (2023/24)
 - 🎓 TGF Scholar
 - 🥇 Gold Award (Computer Vision Track) — CSIT-UPM International FYP 2026
 - 🥈 1st Runner-up — TnG FinHack 2026
-- 🥈 1st Runner-up (Track: Autonomous Mystery Shopper) & 6th Overall — Versus.AI Hackathon
-- 🏅 Top 10 Winner — Great Malaysia AI Hackathon 2025
+- 🥈 1st Runner-up (Track: Autonomous Mystery Shopper) & 6th Overall — Deriv AI Hackathon 2026
+- 🏅 Top 10 Winner — AWS Great Malaysia AI Hackathon 2025
 - 🏅 6th Place — Big Data & System Integration Hackathon 2024
 - ⚡ Hackathon regular — Mistral AI Hackathon 2026 and more
 - 📫 Reach me at **wongyongxi@gmail.com**
@@ -92,8 +92,8 @@
 
 - **[final-year-project](https://github.com/ixgnoy/final-year-project)** – 🥇 Gold Award (Computer Vision Track), CSIT-UPM International FYP Exhibition & Competition 2026
 - **[Inikalilah](https://github.com/ixgnoy/Inikalilah)** – 🥈 1st Runner-up, TnG FinHack 2026
-- **[DerivAI](https://github.com/ixgnoy/DerivAI)** – 🥈 1st Runner-up (Track: Autonomous Mystery Shopper) & 6th Overall — Versus.AI Hackathon. Autonomous AI persona swarms benchmarking mobile UX against competitors
-- **[Lexport AI](https://github.com/ixgnoy)** – 🏅 Top 10 Winner, Great Malaysia AI Hackathon 2025. Export compliance copilot with RAG over Amazon Bedrock + Titan Embeddings + Nova Lite
+- **[DerivAI](https://github.com/ixgnoy/DerivAI)** – 🥈 1st Runner-up (Track: Autonomous Mystery Shopper) & 6th Overall — Deriv AI Hackathon 2026. Autonomous AI persona swarms benchmarking mobile UX against competitors
+- **[Lexport AI](https://github.com/ixgnoy)** – 🏅 Top 10 Winner, AWS Great Malaysia AI Hackathon 2025. Export compliance copilot with RAG over Amazon Bedrock + Titan Embeddings + Nova Lite
 - **[cynaps_v2](https://github.com/ixgnoy/cynaps_v2)** – Data annotation platform powered by a self-improving multi-agent system, built at Mistral AI Hackathon 2026
 - **[pollingapp_x](https://github.com/ixgnoy/pollingapp_x)** – Decentralized voting system built as a Web3 dApp
 
