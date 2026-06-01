@@ -96,6 +96,7 @@
 - **[Lexport AI](https://github.com/ixgnoy)** – 🏅 Top 10 Winner, AWS Great Malaysia AI Hackathon 2025. Export compliance copilot with RAG over Amazon Bedrock + Titan Embeddings + Nova Lite
 - **[cynaps_v2](https://github.com/ixgnoy/cynaps_v2)** – Data annotation platform powered by a self-improving multi-agent system, built at Mistral AI Hackathon 2026
 - **[pollingapp_x](https://github.com/ixgnoy/pollingapp_x)** – Decentralized voting system built as a Web3 dApp
+- **[IBM Bob Hackathon 2026](https://github.com/DylanTan9818/ibm-bob-hackathon)** – An intelligent multi-agent orchestration system that automates DevOps toil, reducing manual work by 60-70%.
 
 ---
 
