@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me
 
 - 🚀 Backend Engineer | Full-Stack Developer | SRE Engineer
-- 🎓 Computer Science @ Universiti Putra Malaysia — graduating **Aug 2026**
-- 💼 Currently Fullstack Java Engineer Intern @ **iFast Global AI Hub**
+- 🎓 Graduated Computer Science @ Universiti Putra Malaysia 
+- 💼 Prev. Fullstack Java Engineer Intern @ **iFast Global AI Hub**
 - 💼 Currently Fullstack Engineer & SRE (Part-time) @ **FutureMinds STEM Robotics**
 - 💼 Prev. Backend SWE Intern @ **Grab** (GrabAds)
 - 🌐 Web/App Dev Team Lead @ **GDSC UPM** (2023/24)
